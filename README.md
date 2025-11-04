@@ -1,0 +1,1 @@
+pemograman ini dibuat untuk menghitung rata rata nilai dengan cara meng-run coding lalu mengisi angka jumlah siswa yang mau diratakan lalu kasih nilai persiswanya dan akan mengeluarkan hasil seluruh rata rata nilai
